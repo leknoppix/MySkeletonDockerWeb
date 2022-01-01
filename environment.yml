@@ -1,0 +1,10 @@
+#######################################
+# MySQL settings
+MYSQL_ROOT_PASSWORD=dev
+MYSQL_USER=dev
+MYSQL_PASSWORD=dev
+MYSQL_DATABASE=database
+#######################################
+# FTP settings
+FTP_USER=dev
+FTP_PASSWORD=dev
