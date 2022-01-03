@@ -29,7 +29,7 @@ services:
       - lan
 
   php:
-    image: leknoppix/php:php-8-0-3-simple
+    image: leknoppix/php:php-8.0.3
     user: 1000:985
     volumes:
       - ./app:/var/www ## espace de stockage

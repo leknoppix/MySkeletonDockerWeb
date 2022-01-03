@@ -1,6 +1,6 @@
 # My Skeleton Docker Web
 
-[English](https://github.com/leknoppix/MySkeletonDockerWeb/blob/main/Readme.md),
+[English](https://github.com/leknoppix/MySkeletonDockerWeb/blob/main/README.md),
 [Français](https://github.com/leknoppix/MySkeletonDockerWeb/blob/main/README.fr.md)
 
 ## Dossier pour les projets web
