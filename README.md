@@ -38,7 +38,7 @@ Test the page opening on http://127.0.0.1:8080
 ```
 docker-compose build
 docker-compose up -d
-composer create-project symfony/website-skeleton .
+docker-composer create-project symfony/website-skeleton .
 ```
 
 Test the page opening on http://127.0.0.1:8080
